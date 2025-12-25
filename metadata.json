@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Vitesse AI Performance Guard",
+  "description": "A smart performance monitoring tool that uses Gemini AI to analyze web application slowness and provide actionable fixes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,12 @@
+
+{
+  "manifest_version": 3,
+  "name": "Vitesse AI",
+  "version": "1.0.0",
+  "description": "AI-Powered Performance Monitoring & Diagnostic Tool",
+  "permissions": ["activeTab", "storage", "scripting"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "https://picsum.photos/128/128"
+  }
+}
